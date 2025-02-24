@@ -1,2 +1,2 @@
-# JS-learning
+JS-learning
 Revising Js from scratch
